@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahzarasua
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently focused on backend Development, specifically microservices using springboot
 - 📫 How to reach me: https://www.linkedin.com/in/mahzarasua/
 
 <!---
